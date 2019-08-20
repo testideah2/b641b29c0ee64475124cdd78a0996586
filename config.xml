@@ -3,7 +3,7 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "ru.bdmagrosupport.tb"
     versionCode = "10"
-    version     = "1.0.0">
+    version     = "1.1.0">
 
 <name>ТЕСТ. ТД БДМ Агро</name>
 
@@ -41,9 +41,9 @@
     <icon src="res/android/icon/e27bcffa3a9e2294555eb45e63ddcfce.png" density="ldpi" />
     <icon src="res/android/icon/1c89c47cd28a90182c15c38f41a742d7.png" density="mdpi" />
     <icon src="res/android/icon/df23bff3595e2f10d0bd9627a21c4606.png" density="hdpi" />
-    <icon src="res/android/icon/b6e662b44e434b18aad41a7d3f53d7ad.png" density="xhdpi" />
-    <icon src="res/android/icon/3692c5fe3beba5b43d03255650bd4131.png" density="xxhdpi" />
-    <icon src="res/android/icon/1a65f703d71d016733917acc4b056aa2.png" density="xxxhdpi" />
+    <icon src="res/android/icon/04be6064a5c1082073101e538d26ae8d.png" density="xhdpi" />
+    <icon src="res/android/icon/b8dd8aa70aebe2f5d9b9364b507749af.png" density="xxhdpi" />
+    <icon src="res/android/icon/a835053e164aa4fd86d89a357b24b602.png" density="xxxhdpi" />
 
     <splash src="res/android/screen/13b8b74109ee3c4abb5df0b9d941e6af.png" density="port-hdpi"/>
     <splash src="res/android/screen/e8748c91bc259b4622f892418a21369c.png" density="port-ldpi"/>
